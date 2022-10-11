@@ -1,0 +1,11 @@
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\bin\Debug\PowerPointVstoAddIn.dll
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\bin\Debug\PowerPointVstoAddIn.pdb
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\bin\Debug\PowerPointVstoAddIn.dll.manifest
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\bin\Debug\PowerPointVstoAddIn.vsto
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\obj\Debug\PowerPointVstoAddIn.Properties.Resources.resources
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\obj\Debug\PowerPointVstoAddIn.csproj.GenerateResource.cache
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\obj\Debug\PowerPointVstoAddIn.csproj.CoreCompileInputs.cache
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\obj\Debug\PowerPointVstoAddIn.csproj.CopyComplete
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\obj\Debug\PowerPointVstoAddIn.dll
+D:\sourcecode\WindowsFormsAppOffice\PowerPointVstoAddIn\obj\Debug\PowerPointVstoAddIn.pdb

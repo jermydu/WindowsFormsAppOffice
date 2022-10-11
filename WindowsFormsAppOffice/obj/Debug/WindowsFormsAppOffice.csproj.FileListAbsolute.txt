@@ -1,0 +1,5 @@
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.csproj.ResolveComReference.cache
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.Form1.resources
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.Properties.Resources.resources
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.csproj.GenerateResource.cache
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.csproj.CoreCompileInputs.cache
