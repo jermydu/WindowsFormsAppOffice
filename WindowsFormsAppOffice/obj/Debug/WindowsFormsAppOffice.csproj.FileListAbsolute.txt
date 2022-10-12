@@ -3,3 +3,9 @@ D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsForms
 D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.Properties.Resources.resources
 D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.csproj.GenerateResource.cache
 D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.csproj.CoreCompileInputs.cache
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\bin\Debug\WindowsFormsAppOffice.exe.config
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\bin\Debug\WindowsFormsAppOffice.exe
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\bin\Debug\WindowsFormsAppOffice.pdb
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.csproj.AssemblyReference.cache
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.exe
+D:\sourcecode\WindowsFormsAppOffice\WindowsFormsAppOffice\obj\Debug\WindowsFormsAppOffice.pdb
